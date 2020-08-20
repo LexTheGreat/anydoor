@@ -2,7 +2,7 @@
  FiveM resource to open any vehicle door
 
 # Commands
- /tas ~ Toggle anydoor's system.
+ /tad ~ Toggle anydoor's system.
  
 # How to
 	1. type /tas
