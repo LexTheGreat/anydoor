@@ -18,7 +18,7 @@ function HelpText(text) {
 }
 
 anydoortoggle = false;
-RegisterCommand('tas', (source, args, rawCommand) => {
+RegisterCommand('tad', (source, args, rawCommand) => {
 	anydoortoggle = !anydoortoggle;
 }, false)
 
